@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.fontSize": 12,
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula Theme",
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
